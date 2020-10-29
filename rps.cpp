@@ -48,6 +48,7 @@ int main() {
       default:
         cout << "Error\n";
     }
+    
     // Converts choice so it has same value-system as pc
     int convert = (choice - 1);
 
